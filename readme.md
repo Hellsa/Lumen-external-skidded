@@ -81,3 +81,4 @@ This project is **not affiliated with Lumen** in any way. It is purely a front-e
 ---
  
 *Made with patience (and a lot of devtools jajaxdlol) *
+If i get inspiration I can update some shi of this
