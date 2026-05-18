@@ -18,7 +18,7 @@ Below is a side-by-side comparison between the **original Lumen UI** and the **c
  
 ![Lumen Original](https://images.guns.lol/a586270a965ea5ffc344504f0a1c6ac0c5de7a2e/OX1EuL.webp)
  
-###  Mine — vibecoded
+###  Mine — vibecoded and someting coded by me and hellsa
  
 ![My Recreation](https://images.guns.lol/a586270a965ea5ffc344504f0a1c6ac0c5de7a2e/y69wIk.webp)
  
